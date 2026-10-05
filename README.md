@@ -6,7 +6,7 @@ Estudante de Ciência da Computação com interesse em **Análise de Dados, Enge
 
 Atualmente desenvolvo conhecimentos práticos em Python, SQL, Power BI e tratamento de dados, buscando transformar problemas operacionais em soluções mais eficientes e orientadas por dados.
 
-## &#x20 Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 
 - Python
 - SQL
@@ -19,7 +19,7 @@ Atualmente desenvolvo conhecimentos práticos em Python, SQL, Power BI e tratame
 - Streamlit
 - Git e GitHub
 
-## &#x20 Projetos em destaque
+## Projetos em destaque
 
 ### Python Insights — Churn
 Análise exploratória de cancelamento de clientes utilizando Python, Pandas e Plotly.
@@ -36,12 +36,12 @@ Aplicação de chatbot utilizando Python, Streamlit e integração com API de in
 
 [Ver projeto](https://github.com/samuelsilva-data7/chatbot-streamlit-ai)
 
-## &#x20 Formação
+## Formação
 
 **Ciência da Computação**  
 UNA — EAD
 
-## &#x20 Atualmente estudando
+## Atualmente estudando
 
 - Python para análise e automação
 - SQL e bancos de dados
@@ -50,6 +50,6 @@ UNA — EAD
 - ETL e pipelines
 - Inteligência Artificial
 
-## &#x20 Contato
+## Contato
 
 [LinkedIn]([https://www.linkedin.com/in/samuel-fernandes-data/)
