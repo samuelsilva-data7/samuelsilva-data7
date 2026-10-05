@@ -52,4 +52,4 @@ UNA — EAD
 
 ## Contato
 
-[LinkedIn]([https://www.linkedin.com/in/samuel-fernandes-data/)
+[LinkedIn](https://www.linkedin.com/in/samuel-fernandes-data/)
