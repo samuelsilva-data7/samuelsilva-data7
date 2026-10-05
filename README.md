@@ -24,7 +24,7 @@ Atualmente desenvolvo conhecimentos práticos em Python, SQL, Power BI e tratame
 ### Python Insights — Churn
 Análise exploratória de cancelamento de clientes utilizando Python, Pandas e Plotly.
 
-[Ver projeto](https://www.linkedin.com/in/samuel-fernandes-8155472ba/)
+[Ver projeto](https://github.com/samuelsilva-data7/python-insights-churn)
 
 ### Automação de Cadastro de Produtos
 Automação de tarefas repetitivas utilizando Python, Pandas e PyAutoGUI.
